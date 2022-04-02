@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="396.10608mm"
+   height="167.08496mm"
+   viewBox="0 0 1497.0939 631.50223"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="LogoBook.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.82209821"
+     inkscape:cx="140.49416"
+     inkscape:cy="315.04752"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="538.97266"
+       y="344.0899"
+       width="147.7888"
+       height="54.012482"
+       id="rect51116" />
+    <rect
+       x="289.27911"
+       y="407.02078"
+       width="146.16208"
+       height="113.68162"
+       id="rect34572" />
+    <rect
+       x="165.07642"
+       y="218.18797"
+       width="50.958374"
+       height="68.901466"
+       id="rect23588" />
+    <rect
+       x="123.44846"
+       y="226.08293"
+       width="40.910244"
+       height="53.111546"
+       id="rect12646" />
+    <rect
+       x="116.27122"
+       y="122.01301"
+       width="502.40649"
+       height="76.078705"
+       id="rect2234" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(168.87793,99.991257)">
+    <ellipse
+       style="fill:#ffd956;stroke:none;stroke-width:1.46846"
+       id="path11134"
+       cx="126.003"
+       cy="213.92384"
+       rx="278.88092"
+       ry="303.5871" />
+    <circle
+       style="opacity:0.785235;fill:#ffd956;fill-opacity:1;stroke:none;stroke-width:0.889864"
+       id="path10120"
+       cx="-164.30211"
+       cy="186.78578"
+       transform="scale(-1,1)"
+       r="0" />
+    <text
+       xml:space="preserve"
+       id="text2232"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:3px;white-space:pre;shape-inside:url(#rect2234);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.906339,0,0,8.1244064,3.1561746,-983.79406)"><tspan
+         x="116.27148"
+         y="158.50688"
+         id="tspan1128"><tspan
+           style="font-family:Candara;-inkscape-font-specification:Candara;fill:#363738"
+           id="tspan1126">Camp Store</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text12644"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12646);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(-0.04964071,-6.8718872,-10.352368,0.05307849,2744.1214,1306.103)"><tspan
+         x="123.44922"
+         y="262.57524"
+         id="tspan1132"><tspan
+           style="font-family:Candara;-inkscape-font-specification:Candara;fill:#363738"
+           id="tspan1130">K</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text34570"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect34572);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0,11.712075,-9.6288082,0,4316.0676,-3389.1992)"><tspan
+         x="289.2793"
+         y="443.5147"
+         id="tspan1136"><tspan
+           style="font-family:Candara;-inkscape-font-specification:Candara;fill:#363738"
+           id="tspan1134">B</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#363738;fill-opacity:1;stroke:none;stroke-width:2.35498"
+       id="rect67071"
+       width="136.30396"
+       height="26.880579"
+       x="-68.982216"
+       y="19.639082"
+       transform="matrix(-0.92923705,-0.36948411,-0.17769238,0.98408608,0,0)" />
+    <rect
+       style="opacity:1;fill:#363738;fill-opacity:1;stroke:none;stroke-width:2.94124"
+       id="rect68723"
+       width="237.63976"
+       height="24.050055"
+       x="-281.26675"
+       y="-56.94212"
+       transform="matrix(-0.94257783,-0.33398657,-0.44713661,0.89446568,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="logo"
+     transform="translate(168.87793,99.991257)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(168.87793,99.991257)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text"
+     transform="translate(168.87793,99.991257)" />
+</svg>
