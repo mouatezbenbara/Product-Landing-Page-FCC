@@ -73,11 +73,10 @@ body {
 .search-icon:hover::before  {
     background-color: #3A4984;
 }
-.nav-link {
+ul li {
     list-style: none;
-
 }
-.nav-link a{
+ul li a{
     text-decoration: none;
     color: #646464;
     font-size: 1.3rem;
@@ -85,7 +84,7 @@ body {
     padding: 40px 20px;
     font-weight: 500;
 }
-.header ul .nav-link a:hover {
+.header ul li a:hover {
     color: #3A4984;
 }
 .main {
@@ -289,7 +288,7 @@ h2 {
     justify-content: center;
     align-items: center;
 }
-.contact-bar ul .nav-link a:hover {
+.contact-bar ul li a:hover {
     color: #3A4984;
 }
 @media (max-width: 768px) {
